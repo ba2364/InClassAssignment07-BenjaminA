@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Team Maker 3.0</string>
+    <string name="city">City Name</string>
+    <string name="nickname">Team Nickname</string>
+    <string name="championships">How Many Championships?</string>
+    <string name="playing">Are They Still Playing?</string>
+    <string name="submit">Submit</string>
+    <string name="welcome">Welcome to Team Maker 2.0</string>
+    <string name="newTeam">Add a Team</string>
+    <string name="setTitle">Set Title</string>
+    <string name="title">Title</string>
+</resources>
